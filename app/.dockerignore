@@ -1,0 +1,14 @@
+# Directories
+.vscode
+.git
+dist
+node_modules
+
+# Files
+Dockerfile
+LICENSE
+npm-debug.log
+docker-compose*
+.dockerignore
+.gitignore
+*.md
